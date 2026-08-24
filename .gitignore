@@ -1,1 +1,6 @@
 .DS_Store
+
+# PDFs are never committed here. Decks and handouts live on Google Drive;
+# the site links to them. See SLIDES in tools/json_to_student_html.py.
+*.pdf
+slides/
